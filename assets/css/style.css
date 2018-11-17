@@ -1,0 +1,49 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    margin: 50px auto;
+    width:960px;
+    position:relative;
+}
+
+footer {
+    background-color: #666;
+    height:25px;
+    text-align: center;
+    color: #ffffff;
+}
+
+header {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    height:100px;
+    position:relative;
+    width:100%;
+
+}
+
+.header_wrap {
+    width: 960px;
+}
+
+.header_name {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    display: block;
+    margin-left: 151px;    
+    float: left;
+}
+
+ul {
+    float: right;
+}
